@@ -23,6 +23,12 @@
 	}
 ```
 
+
+### 效果图  
+<img src="/gif/one.gif" style="width: 30%;">
+
+
+
 #### 2、布局中添加 EasyLayoutScroll <br>
 
 **xml文件**
