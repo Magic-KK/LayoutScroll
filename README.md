@@ -112,7 +112,7 @@ public class MainActivity extends AppCompatActivity {
     }
 ```
 
-# Thanks
+# 感谢
 该项目参考了：
 
 * [https://github.com/dreamlivemeng/UpMarqueeTextView-master](https://github.com/dreamlivemeng/UpMarqueeTextView-master)
