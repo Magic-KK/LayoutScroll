@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.layoutscroll.layoutscroll.MainActivity">
+
+
+    <com.layoutscroll.layoutscrollcontrols.view.EasyLayoutScroll
+        android:id="@+id/upview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        app:duration="2000"
+        app:gradient="true"
+        app:interval="1000"></com.layoutscroll.layoutscrollcontrols.view.EasyLayoutScroll>
+
+</android.support.constraint.ConstraintLayout>
