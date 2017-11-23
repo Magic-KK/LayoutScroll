@@ -19,7 +19,7 @@
 
 ```
     dependencies {
-	          compile 'com.github.sun-sky:Marquee:1.0.0'
+	         compile 'com.github.zhangkexpz:LayoutScroll:v1.0'
 	}
 ```
 
