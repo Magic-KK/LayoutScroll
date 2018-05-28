@@ -122,4 +122,4 @@ public class MainActivity extends AppCompatActivity {
 该项目参考了：
 
 * [https://github.com/dreamlivemeng/UpMarqueeTextView-master](https://github.com/dreamlivemeng/UpMarqueeTextView-master)
-* [https://github.com/sun-sky/Marquee](https://github.com/sun-sky/Marquee)
+
